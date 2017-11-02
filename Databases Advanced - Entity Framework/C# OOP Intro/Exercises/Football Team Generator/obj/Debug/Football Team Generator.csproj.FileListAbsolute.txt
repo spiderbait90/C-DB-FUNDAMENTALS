@@ -1,0 +1,7 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Football Team Generator\bin\Debug\Football Team Generator.exe.config
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Football Team Generator\bin\Debug\Football Team Generator.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Football Team Generator\bin\Debug\Football Team Generator.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Football Team Generator\obj\Debug\Football Team Generator.csprojResolveAssemblyReference.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Football Team Generator\obj\Debug\Football Team Generator.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Football Team Generator\obj\Debug\Football Team Generator.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Football Team Generator\obj\Debug\Football Team Generator.pdb

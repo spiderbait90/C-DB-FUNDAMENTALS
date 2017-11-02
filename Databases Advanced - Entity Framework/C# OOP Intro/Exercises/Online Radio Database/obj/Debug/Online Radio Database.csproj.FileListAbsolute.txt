@@ -1,0 +1,7 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Online Radio Database\bin\Debug\Online Radio Database.exe.config
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Online Radio Database\bin\Debug\Online Radio Database.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Online Radio Database\bin\Debug\Online Radio Database.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Online Radio Database\obj\Debug\Online Radio Database.csprojResolveAssemblyReference.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Online Radio Database\obj\Debug\Online Radio Database.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Online Radio Database\obj\Debug\Online Radio Database.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Exercises\Online Radio Database\obj\Debug\Online Radio Database.pdb

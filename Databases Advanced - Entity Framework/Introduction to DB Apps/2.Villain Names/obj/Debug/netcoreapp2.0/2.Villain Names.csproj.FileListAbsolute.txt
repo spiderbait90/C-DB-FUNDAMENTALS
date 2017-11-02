@@ -1,0 +1,10 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\2.Villain Names\bin\Debug\netcoreapp2.0\2.Villain Names.deps.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\2.Villain Names\bin\Debug\netcoreapp2.0\2.Villain Names.runtimeconfig.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\2.Villain Names\bin\Debug\netcoreapp2.0\2.Villain Names.runtimeconfig.dev.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\2.Villain Names\bin\Debug\netcoreapp2.0\2.Villain Names.dll
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\2.Villain Names\obj\Debug\netcoreapp2.0\2.Villain Names.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\2.Villain Names\obj\Debug\netcoreapp2.0\2.Villain Names.AssemblyInfoInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\2.Villain Names\obj\Debug\netcoreapp2.0\2.Villain Names.AssemblyInfo.cs
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\2.Villain Names\bin\Debug\netcoreapp2.0\2.Villain Names.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\2.Villain Names\obj\Debug\netcoreapp2.0\2.Villain Names.dll
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\2.Villain Names\obj\Debug\netcoreapp2.0\2.Villain Names.pdb

@@ -1,0 +1,11 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\7.Print All Minion Names\bin\Debug\netcoreapp2.0\7.Print All Minion Names.deps.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\7.Print All Minion Names\bin\Debug\netcoreapp2.0\7.Print All Minion Names.runtimeconfig.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\7.Print All Minion Names\bin\Debug\netcoreapp2.0\7.Print All Minion Names.runtimeconfig.dev.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\7.Print All Minion Names\bin\Debug\netcoreapp2.0\7.Print All Minion Names.dll
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\7.Print All Minion Names\obj\Debug\netcoreapp2.0\7.Print All Minion Names.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\7.Print All Minion Names\obj\Debug\netcoreapp2.0\7.Print All Minion Names.AssemblyInfoInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\7.Print All Minion Names\obj\Debug\netcoreapp2.0\7.Print All Minion Names.AssemblyInfo.cs
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\7.Print All Minion Names\bin\Debug\netcoreapp2.0\7.Print All Minion Names.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\7.Print All Minion Names\obj\Debug\netcoreapp2.0\7.Print All Minion Names.csprojResolveAssemblyReference.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\7.Print All Minion Names\obj\Debug\netcoreapp2.0\7.Print All Minion Names.dll
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\7.Print All Minion Names\obj\Debug\netcoreapp2.0\7.Print All Minion Names.pdb

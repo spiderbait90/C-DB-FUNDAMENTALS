@@ -1,0 +1,7 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Book Shop\bin\Debug\Book Shop.exe.config
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Book Shop\bin\Debug\Book Shop.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Book Shop\bin\Debug\Book Shop.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Book Shop\obj\Debug\Book Shop.csprojResolveAssemblyReference.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Book Shop\obj\Debug\Book Shop.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Book Shop\obj\Debug\Book Shop.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Book Shop\obj\Debug\Book Shop.pdb

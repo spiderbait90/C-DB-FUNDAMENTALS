@@ -1,0 +1,7 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Single Inheritance\bin\Debug\Single Inheritance.exe.config
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Single Inheritance\bin\Debug\Single Inheritance.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Single Inheritance\bin\Debug\Single Inheritance.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Single Inheritance\obj\Debug\Single Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Single Inheritance\obj\Debug\Single Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Single Inheritance\obj\Debug\Single Inheritance.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Inheritance\Single Inheritance\obj\Debug\Single Inheritance.pdb

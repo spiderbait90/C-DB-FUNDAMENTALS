@@ -1,0 +1,11 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\9.Increase Age Stored Procedure\bin\Debug\netcoreapp2.0\9.Increase Age Stored Procedure.deps.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\9.Increase Age Stored Procedure\bin\Debug\netcoreapp2.0\9.Increase Age Stored Procedure.runtimeconfig.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\9.Increase Age Stored Procedure\bin\Debug\netcoreapp2.0\9.Increase Age Stored Procedure.runtimeconfig.dev.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\9.Increase Age Stored Procedure\bin\Debug\netcoreapp2.0\9.Increase Age Stored Procedure.dll
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\9.Increase Age Stored Procedure\obj\Debug\netcoreapp2.0\9.Increase Age Stored Procedure.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\9.Increase Age Stored Procedure\obj\Debug\netcoreapp2.0\9.Increase Age Stored Procedure.AssemblyInfoInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\9.Increase Age Stored Procedure\obj\Debug\netcoreapp2.0\9.Increase Age Stored Procedure.AssemblyInfo.cs
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\9.Increase Age Stored Procedure\obj\Debug\netcoreapp2.0\9.Increase Age Stored Procedure.csprojResolveAssemblyReference.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\9.Increase Age Stored Procedure\bin\Debug\netcoreapp2.0\9.Increase Age Stored Procedure.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\9.Increase Age Stored Procedure\obj\Debug\netcoreapp2.0\9.Increase Age Stored Procedure.dll
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\9.Increase Age Stored Procedure\obj\Debug\netcoreapp2.0\9.Increase Age Stored Procedure.pdb

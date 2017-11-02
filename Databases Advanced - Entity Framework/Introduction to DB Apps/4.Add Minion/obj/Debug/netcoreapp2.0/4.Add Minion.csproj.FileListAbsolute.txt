@@ -1,0 +1,11 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\4.Add Minion\bin\Debug\netcoreapp2.0\4.Add Minion.deps.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\4.Add Minion\bin\Debug\netcoreapp2.0\4.Add Minion.runtimeconfig.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\4.Add Minion\bin\Debug\netcoreapp2.0\4.Add Minion.runtimeconfig.dev.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\4.Add Minion\bin\Debug\netcoreapp2.0\4.Add Minion.dll
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\4.Add Minion\obj\Debug\netcoreapp2.0\4.Add Minion.csprojResolveAssemblyReference.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\4.Add Minion\obj\Debug\netcoreapp2.0\4.Add Minion.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\4.Add Minion\obj\Debug\netcoreapp2.0\4.Add Minion.AssemblyInfoInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\4.Add Minion\obj\Debug\netcoreapp2.0\4.Add Minion.AssemblyInfo.cs
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\4.Add Minion\bin\Debug\netcoreapp2.0\4.Add Minion.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\4.Add Minion\obj\Debug\netcoreapp2.0\4.Add Minion.dll
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\4.Add Minion\obj\Debug\netcoreapp2.0\4.Add Minion.pdb

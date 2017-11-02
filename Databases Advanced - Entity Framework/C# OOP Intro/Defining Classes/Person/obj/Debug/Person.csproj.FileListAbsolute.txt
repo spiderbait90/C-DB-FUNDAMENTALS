@@ -1,0 +1,7 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Person\bin\Debug\Person.exe.config
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Person\bin\Debug\Person.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Person\bin\Debug\Person.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Person\obj\Debug\Person.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Person\obj\Debug\Person.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache

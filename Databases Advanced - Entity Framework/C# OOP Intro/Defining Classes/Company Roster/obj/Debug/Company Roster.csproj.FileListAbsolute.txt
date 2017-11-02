@@ -1,0 +1,7 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Company Roster\bin\Debug\Company Roster.exe.config
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Company Roster\bin\Debug\Company Roster.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Company Roster\bin\Debug\Company Roster.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Company Roster\obj\Debug\Company Roster.csprojResolveAssemblyReference.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Company Roster\obj\Debug\Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Company Roster\obj\Debug\Company Roster.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Company Roster\obj\Debug\Company Roster.pdb

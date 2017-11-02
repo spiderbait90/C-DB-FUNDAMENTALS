@@ -1,0 +1,7 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Speed Racing\bin\Debug\Speed Racing.exe.config
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Speed Racing\bin\Debug\Speed Racing.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Speed Racing\bin\Debug\Speed Racing.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Speed Racing\obj\Debug\Speed Racing.csprojResolveAssemblyReference.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Speed Racing\obj\Debug\Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Speed Racing\obj\Debug\Speed Racing.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\OOP Introduction - Defining Classes\Speed Racing\obj\Debug\Speed Racing.pdb

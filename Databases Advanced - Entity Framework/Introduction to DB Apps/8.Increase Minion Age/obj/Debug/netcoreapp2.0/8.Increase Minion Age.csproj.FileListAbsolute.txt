@@ -1,0 +1,10 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\8.Increase Minion Age\bin\Debug\netcoreapp2.0\8.Increase Minion Age.deps.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\8.Increase Minion Age\bin\Debug\netcoreapp2.0\8.Increase Minion Age.runtimeconfig.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\8.Increase Minion Age\bin\Debug\netcoreapp2.0\8.Increase Minion Age.runtimeconfig.dev.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\8.Increase Minion Age\bin\Debug\netcoreapp2.0\8.Increase Minion Age.dll
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\8.Increase Minion Age\obj\Debug\netcoreapp2.0\8.Increase Minion Age.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\8.Increase Minion Age\obj\Debug\netcoreapp2.0\8.Increase Minion Age.AssemblyInfoInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\8.Increase Minion Age\obj\Debug\netcoreapp2.0\8.Increase Minion Age.AssemblyInfo.cs
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\8.Increase Minion Age\bin\Debug\netcoreapp2.0\8.Increase Minion Age.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\8.Increase Minion Age\obj\Debug\netcoreapp2.0\8.Increase Minion Age.dll
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\8.Increase Minion Age\obj\Debug\netcoreapp2.0\8.Increase Minion Age.pdb

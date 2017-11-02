@@ -1,0 +1,11 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\1.Initial Setup\bin\Debug\netcoreapp2.0\1.Initial Setup.deps.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\1.Initial Setup\bin\Debug\netcoreapp2.0\1.Initial Setup.runtimeconfig.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\1.Initial Setup\bin\Debug\netcoreapp2.0\1.Initial Setup.runtimeconfig.dev.json
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\1.Initial Setup\bin\Debug\netcoreapp2.0\1.Initial Setup.dll
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\1.Initial Setup\obj\Debug\netcoreapp2.0\1.Initial Setup.csprojResolveAssemblyReference.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\1.Initial Setup\obj\Debug\netcoreapp2.0\1.Initial Setup.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\1.Initial Setup\obj\Debug\netcoreapp2.0\1.Initial Setup.AssemblyInfoInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\1.Initial Setup\obj\Debug\netcoreapp2.0\1.Initial Setup.AssemblyInfo.cs
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\1.Initial Setup\bin\Debug\netcoreapp2.0\1.Initial Setup.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\1.Initial Setup\obj\Debug\netcoreapp2.0\1.Initial Setup.dll
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Introduction to DB Apps\1.Initial Setup\obj\Debug\netcoreapp2.0\1.Initial Setup.pdb

@@ -1,0 +1,7 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Shopping Spree\bin\Debug\Shopping Spree.exe.config
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Shopping Spree\bin\Debug\Shopping Spree.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Shopping Spree\bin\Debug\Shopping Spree.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Shopping Spree\obj\Debug\Shopping Spree.csprojResolveAssemblyReference.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Shopping Spree\obj\Debug\Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Shopping Spree\obj\Debug\Shopping Spree.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Shopping Spree\obj\Debug\Shopping Spree.pdb

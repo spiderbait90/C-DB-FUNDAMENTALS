@@ -1,0 +1,7 @@
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Class Box\bin\Debug\Class Box.exe.config
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Class Box\bin\Debug\Class Box.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Class Box\bin\Debug\Class Box.pdb
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Class Box\obj\Debug\Class Box.csprojResolveAssemblyReference.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Class Box\obj\Debug\Class Box.csproj.CoreCompileInputs.cache
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Class Box\obj\Debug\Class Box.exe
+C:\Users\SpiderBait90\Documents\Visual Studio 2017\Projects\Encapsulation and Validation\Class Box\obj\Debug\Class Box.pdb
