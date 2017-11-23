@@ -1,0 +1,10 @@
+C:\Users\spide\source\repos\Advanced Relations\P01_BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.deps.json
+C:\Users\spide\source\repos\Advanced Relations\P01_BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.runtimeconfig.json
+C:\Users\spide\source\repos\Advanced Relations\P01_BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.runtimeconfig.dev.json
+C:\Users\spide\source\repos\Advanced Relations\P01_BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.dll
+C:\Users\spide\source\repos\Advanced Relations\P01_BillsPaymentSystem\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.csprojResolveAssemblyReference.cache
+C:\Users\spide\source\repos\Advanced Relations\P01_BillsPaymentSystem\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.csproj.CoreCompileInputs.cache
+C:\Users\spide\source\repos\Advanced Relations\P01_BillsPaymentSystem\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.AssemblyInfoInputs.cache
+C:\Users\spide\source\repos\Advanced Relations\P01_BillsPaymentSystem\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.AssemblyInfo.cs
+C:\Users\spide\source\repos\Advanced Relations\P01_BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.dll
+C:\Users\spide\source\repos\Advanced Relations\P01_BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
