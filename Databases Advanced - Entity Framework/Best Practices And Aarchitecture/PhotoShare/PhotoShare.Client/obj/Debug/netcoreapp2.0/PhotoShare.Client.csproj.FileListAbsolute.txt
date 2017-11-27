@@ -1,0 +1,15 @@
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.deps.json
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.runtimeconfig.json
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.runtimeconfig.dev.json
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.dll
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.pdb
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.csprojResolveAssemblyReference.cache
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.csproj.CoreCompileInputs.cache
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.AssemblyInfoInputs.cache
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.AssemblyInfo.cs
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.dll
+C:\Users\spide\Desktop\PhotoShare\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.pdb
